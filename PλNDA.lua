@@ -97,6 +97,6 @@ end)
 
 local tab = win:Tab("Credits", "http://www.roblox.com/asset/?id=6023426915")
 tab:Label("The Clown#0001 - Main Creator")
-tab:Label("Pog#5555 - Alpha/Beta Tester")
+tab:Label("pog#5555 - Alpha/Beta Tester")
 tab:Label("epik#0905 - Alpha/Beta Tester")
 tab:Label("Pandq#2169 - Error 404/Sleeping through Script Development")
