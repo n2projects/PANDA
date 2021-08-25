@@ -1,6 +1,6 @@
 local Flux = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/fluxlib.txt")()
 
-local win = Flux:Window("PλNDA", "Script Hub", Color3.fromRGB(133, 133, 133), Enum.KeyCode.LeftControl)
+local win = Flux:Window("PλNDA", "Experimental Branch", Color3.fromRGB(255,255,95,255), Enum.KeyCode.LeftControl)
 local tab = win:Tab("General Scripts", "http://www.roblox.com/asset/?id=6023426915")
 
 tab:Label("General Movement")
@@ -95,6 +95,14 @@ tab:Button("Sniff Hub", "Relatively small script hub with sleek UI.", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/Sniff-Hub/main/Sniff%20hub%20v2", true))()
 end)
 
+local tab = win:Tab("Game Specific Scripts", "http://www.roblox.com/asset/?id=6023426915")
+tab:Label("Lumber Tycoon 2")
+
+tab:Button("Bark GUI", "Script for Lumber Tycoon 2.", function()
+    loadstring(game:HttpGetAsync'https://cdn.applebee1558.com/bark/bark.lua')('bark > blood :)')
+    end)
+
 local tab = win:Tab("Credits", "http://www.roblox.com/asset/?id=6023426915")
 tab:Label("The Clown #0001 - Main Creator")
 tab:Label("Pog #555 - Alpha/Beta Tester")
+
