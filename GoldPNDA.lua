@@ -6,7 +6,7 @@ local tab = win:Tab("General Scripts", "http://www.roblox.com/asset/?id=60234269
 tab:Label("General Movement")
 
 tab:Button("Flight", "Fly like a butterfly sting like a bee. Toggle flight with 'E'. May require re-activating after a respawn.", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TR011F4C3/PANDA/GoldPNDA/main/scripts/fly.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TR011F4C3/PANDA/GoldPNDA/scripts/fly.lua", true))()
 end)
 
 tab:Button("Ghost", "Form of noclip that allows you to stand in mid-air. Not compatible with fly. Toggle ghost with 'V'.", function()
@@ -74,7 +74,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TR011F4C3/PANDA/GoldP
 end)
 
 tab:Button("Unanchored Object Teleporter", "Simple GUI that allows for the teleportation of unanchored objects. Made by TomQ#6764", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TR011F4C3/PANDA/GoldPNDA/main/scripts/unanchored_teleporter.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TR011F4C3/PANDA/GoldPNDA/scripts/unanchored_teleporter.lua", true))()
 end)
 
 tab:Label("More Miscellaneous Scripts are coming so stay tuned!")
