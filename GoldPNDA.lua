@@ -102,7 +102,17 @@ tab:Button("Bark GUI", "Script for Lumber Tycoon 2.", function()
     loadstring(game:HttpGetAsync'https://cdn.applebee1558.com/bark/bark.lua')('bark > blood :)')
     end)
 
+tab:Label("Ragdoll Engine")
+tab:Button("Vynixius Ragdoll Engine", "Script for Ragdoll Engine.", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Scripts/master/Vynixius%20Ragdoll%20Engine", true))()
+    end)
+
+tab:Button("Vynixius Ragdoll Engine Experimental", "Experimental script for Ragdoll Engine.", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Scripts/master/Vynixius%20Ragdoll%20Engine%20Experimental", true))()
+    end)   
+
 local tab = win:Tab("Credits", "http://www.roblox.com/asset/?id=6023426915")
 tab:Label("The Clown #0001 - Main Creator")
 tab:Label("Pog #555 - Alpha/Beta Tester")
-
+tab:Label("epik#0905 - Alpha/Beta Tester")
+tab:Label("Pandq#2169 - Error 404/Sleeping through Script Development")
