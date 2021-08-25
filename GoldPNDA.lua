@@ -1,6 +1,6 @@
 local Flux = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/fluxlib.txt")()
 
-local win = Flux:Window("PλNDA", "Experimental Branch", Color3.fromRGBrgb(255,215,0), Enum.KeyCode.LeftControl)
+local win = Flux:Window("PλNDA", "Experimental Branch", Color3.fromRGBrgb(207,181,59), Enum.KeyCode.LeftControl)
 local tab = win:Tab("General Scripts", "http://www.roblox.com/asset/?id=6023426915")
 
 tab:Label("General Movement")
