@@ -10,4 +10,4 @@ This project is in pre-alpha stages, meaning it is VERY buggy. <br>
 Please report all bugs in the Issues section.
 
 # GoldPNDA
-If you wish for a more experimental version of PλNDA, try [GoldPNDA](https://github.com/TR011F4C3/PANDA/tree/GoldPNDA)
+If you wish for a more experimental version of PλNDA, try [GoldPNDA](https://github.com/TR011F4C3/PANDA/tree/GoldPNDA).
