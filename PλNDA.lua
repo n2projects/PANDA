@@ -96,6 +96,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/Sniff-
 end)
 
 local tab = win:Tab("Credits", "http://www.roblox.com/asset/?id=6023426915")
-tab:Label("The Clown #0001 - Main Creator")
-tab:Label("Pog #555 - Alpha/Beta Tester")
-tab:Label("epik #0905 - Alpha/Beta Tester")
+tab:Label("The Clown#0001 - Main Creator")
+tab:Label("Pog#555 - Alpha/Beta Tester")
+tab:Label("epik#0905 - Alpha/Beta Tester")
