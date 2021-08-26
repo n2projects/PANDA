@@ -11,3 +11,6 @@ Please report all bugs in the Issues section.
 
 # GoldPNDA
 If you wish for a more experimental version of PλNDA, try [GoldPNDA](https://github.com/TR011F4C3/PANDA/tree/GoldPNDA).
+
+# Discord
+Our discord is https://discord.gg/vTe9px6azC.
