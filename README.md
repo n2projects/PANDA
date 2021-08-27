@@ -3,7 +3,7 @@
 
 <img align=center src="https://i.imgur.com/8OQalUq.png" alt="PANDA Logo">
 
-<img align=center src="https://img.shields.io/discord/880190688057262080?style=plastic" alt="Badge"> <img src="https://img.shields.io/github/last-commit/TR011F4C3/PANDA?style=plastic" alt="Badge" class="center"> <img align=center src="https://img.shields.io/github/contributors/TR011F4C3/PANDA?style=plastic" alt="Badge">
+<img align=center src="https://img.shields.io/discord/880190688057262080?style=plastic" alt="Badge"> <img align=center src="https://img.shields.io/github/last-commit/TR011F4C3/PANDA?style=plastic" alt="Badge" class="center"> <img align=center src="https://img.shields.io/github/contributors/TR011F4C3/PANDA?style=plastic" alt="Badge">
 </center>
 
 An open source script hub with a variety of scripts made by a variety of different people.<br>
