@@ -1,6 +1,6 @@
 ![Panda Logo](https://i.imgur.com/8OQalUq.png)
 
-![Badge](https://img.shields.io/discord/880190688057262080?style=plastic) ![Badge](https://img.shields.io/github/last-commit/TR011F4C3/PANDA?style=plastic)
+![Badge](https://img.shields.io/discord/880190688057262080?style=plastic)  ![Badge](https://img.shields.io/github/last-commit/TR011F4C3/PANDA?style=plastic)  ![Badge](https://img.shields.io/github/contributors/TR011F4C3/PANDA?style=plastic)
 
 
 An open source script hub with a variety of scripts made by a variety of different people.<br>
