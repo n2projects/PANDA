@@ -73,10 +73,6 @@ tab:Button("Telekinesis", "Instructions: https://sitelist.neocities.org/scripts/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TR011F4C3/PANDA/GoldPNDA/scripts/tel.lua", true))()
 end)
 
-tab:Button("Unanchored Object Teleporter", "Simple GUI that allows for the teleportation of unanchored objects. Made by TomQ#6764", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TR011F4C3/PANDA/GoldPNDA/scripts/unanchored_teleporter.lua", true))()
-end)
-
 tab:Label("More Miscellaneous Scripts are coming so stay tuned!")
 
 local tab = win:Tab("Other Script Hubs", "http://www.roblox.com/asset/?id=6023426915")
